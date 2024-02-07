@@ -1,0 +1,1 @@
+The objective of the study is to analyse the flight booking dataset obtained from “Ease My Trip” website. 'Easemytrip' is an internet platform for booking flight tickets, and hence a platform that potential passengers use to buy tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers.

@@ -21,20 +21,24 @@
 > ### EDA Section
  
 * Does price vary with Airlines?
+
 ![barplot](price_airline.png)
 
 Vistara airline average ticket price is very high(around 30000 rs) and AirAsia average ticket price is much less(around 5000 rs)compare to other airlines.
 
 * How does stops column affect ticket price?
+  
 ![sr](stops.png)
 
 The flights that take one stop between the source and destination cities have ticket prices higher, over 20,000 rupees. The flights that have zero stops between the source and destination cities have the lowest ticket prices, around 10,000 rupees
 
-* Do flight durations play a significant role in ticket pricing?![scatter](scatter.png)
+* Do flight durations play a significant role in ticket pricing?
+![scatter](scatter.png)
  
  Here flight duration do not play a significant role in ticket pricing and we can't see any significant relationship between price and duration.
 
- * Can we identify any specific combinations of factors (e.g., airline, class, stops) that consistently lead to higher or lower ticket prices?    ![heatmap](heatmap.png)
+ * Can we identify any specific combinations of factors (e.g., airline, class, stops) that consistently lead to higher or lower ticket prices? 
+![heatmap](heatmap.png)
 
  Business class flights with two or more stops from Vistara Airlines have the highest ticket prices. Conversely, economy class flights with zero stops from GO_FIRST airline have the lowest ticket prices.
 

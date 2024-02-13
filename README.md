@@ -34,7 +34,7 @@ The flights that take one stop between the source and destination cities have ti
  
  Here flight duration do not play a significant role in ticket pricing and we can't see any significant relationship between price and duration.
 
- * Can we identify any specific combinations of factors (e.g., airline, class, stops) that consistently lead to higher or lower ticket prices? ![heatmap](heatmap.png)
+ * Can we identify any specific combinations of factors (e.g., airline, class, stops) that consistently lead to higher or lower ticket prices?    ![heatmap](heatmap.png)
 
  Business class flights with two or more stops from Vistara Airlines have the highest ticket prices. Conversely, economy class flights with zero stops from GO_FIRST airline have the lowest ticket prices.
 

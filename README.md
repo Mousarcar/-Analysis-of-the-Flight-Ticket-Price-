@@ -41,6 +41,8 @@ The flights that take one stop between the source and destination cities have ti
   
 ![heatmap](heatmap.png)
 
+
+
  Business class flights with two or more stops from Vistara Airlines have the highest ticket prices. Conversely, economy class flights with zero stops from GO_FIRST airline have the lowest ticket prices.
 
  

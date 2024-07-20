@@ -14,7 +14,7 @@
 * Dataset contains information about flight booking from the website Easemytrip for flight travel between India's top 6 metro cities. 
 * Dataset contains 11 columns namely - 'Unnamed: 0', 'airline', 'flight', 'source_city', 'departure_time', 'stops', 'arrival_time','destination_city', 'class', 'duration', 'days_left', 'price'.
 
-> ### Liberaries
+> ### Libraries
 * Numpy
 * Pandas
 * Matplotlib

@@ -2,7 +2,7 @@
 
 > ### Introduction
 * The flight booking dataset obtained from the 'Ease My Trip' website represents an internet platform used by potential passengers to purchase flight tickets. A thorough study of this data will help uncover valuable insights that can greatly benefit passengers.
-* ### Problem statement
+ ### Problem statement
 * The objective of this project is to analyze how flight ticket prices vary across different columns and identify which columns are most responsible for that. Additionally, we have to build a machine learning model that can predict the ticket price for new passengers based on input parameters like airline, source city, destination city, class, and other relevant features.
 > ### Source of dataset
  * We collected the dataset from [kaggle.com](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
